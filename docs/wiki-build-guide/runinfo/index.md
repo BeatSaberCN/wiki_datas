@@ -11,8 +11,9 @@ sidebar_position: 1001
 ## TLDR
 
 ```sh
-git clone git@github.com:BeatSaberCN/wiki.git
+git clone --recursive git@github.com:BeatSaberCN/wiki.git
 cd wiki
+git submodule foreach git pull origin main
 npm install
 npm start
 ```
@@ -29,11 +30,13 @@ npm start
 找一个干净的文件夹，右键点击`Open Git Bash here`，并执行以下命令：
 
 ```sh
-git clone git@github.com:BeatSabeCN/wiki.git
+git clone --recursive git@github.com:BeatSabeCN/wiki.git
+git submodule foreach git pull origin main
 ```
 
 你会看到新出现的wiki文件夹，进入它。
 
+<提示> `git submodule foreach git pull origin main`用于将页面数据同步至最新版本</提示>
 ## 初始化项目及依赖
 
 进入wiki文件夹，然后按住shift，点击鼠标右键，找到“在终端中打开”选项：
