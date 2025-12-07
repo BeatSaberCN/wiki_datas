@@ -36,7 +36,7 @@ git submodule foreach git pull origin main
 
 你会看到新出现的wiki文件夹，进入它。
 
-<提示> `git submodule foreach git pull origin main`用于将页面数据同步至最新版本</提示>
+<提示> `git submodule foreach git pull origin main`用于将页面数据同步至最新版本。</提示>
 ## 初始化项目及依赖
 
 进入wiki文件夹，然后按住shift，点击鼠标右键，找到“在终端中打开”选项：
@@ -60,3 +60,5 @@ npm install
 ## 编辑维基
 
 直接使用你喜欢的IDE打开这个文件夹就能编辑。
+
+<注意>应当编辑并提交的是wiki_datas文件夹中的子git，而非外面的wiki文件夹的git，当远端数据有更新时，在这个子文件夹里执行`git pull origin main`。</注意>
