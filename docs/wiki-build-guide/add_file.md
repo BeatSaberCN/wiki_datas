@@ -6,9 +6,9 @@ sidebar_position: 5
 
 ## 站点布局
 
-本站遵循docusaurus的默认布局。但对导航有较为清晰的约束。
+本站遵循docusaurus的默认布局。但对导航有较为清晰的约束，所有页面数据都在[wiki_datas](https://github.com/BeatSaberCN/wiki_datas)的github仓库中。
 本站大部分内容在`docs`目录下。
-部分非文档相关的东西在`src/pages`下。
+部分非文档相关的东西在`pages`下。
 写日志可以在`blog`下。
 
 
