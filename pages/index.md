@@ -8,6 +8,10 @@ import {NewBlogBtn} from "@site/src/components/index_panel.tsx"
 
 <NewBlogBtn />
 
-(测试编辑)
+以下指示器显示最新的维基构建状态。
+
+
+[![Deploy to GitHub Pages](https://github.com/BeatSaberCN/wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/BeatSaberCN/wiki/actions/workflows/deploy.yml)
+
 
 <hr/>
