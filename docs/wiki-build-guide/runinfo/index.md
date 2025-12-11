@@ -14,6 +14,7 @@ sidebar_position: 1001
 git clone --recursive git@github.com:BeatSaberCN/wiki.git
 cd wiki
 git submodule foreach git pull origin main
+git submodule foreach git checkout main
 npm install
 npm start
 ```
@@ -31,7 +32,9 @@ npm start
 
 ```sh
 git clone --recursive git@github.com:BeatSabeCN/wiki.git
+cd wiki
 git submodule foreach git pull origin main
+git submodule foreach git checkout main
 ```
 
 你会看到新出现的wiki文件夹，进入它。
@@ -62,3 +65,12 @@ npm install
 直接使用你喜欢的IDE打开这个文件夹就能编辑。
 
 <注意>应当编辑并提交的是wiki_datas文件夹中的子git，而非外面的wiki文件夹的git，当远端数据有更新时，在这个子文件夹里执行`git pull origin main`。</注意>
+
+## 保存上传
+
+如果你拥有git权限，就可以直接提交并推送wiki_datas目录下的git。但你可能需要事先在git中配置ssh私钥。
+
+### 更简单的方法
+
+如果你不会使用submodule，可以直接编辑[wiki_datas](https://github.com/BeatSaberCN/wiki_datas)项目，wiki项目会在wiki_datas发生修改后自动重新构建。
+
