@@ -84,3 +84,18 @@ sidebar_position: 200
 <模组大卡 平台="PC" 名称="BeatLeader" />
 普通：
 <模组 平台="PC" 名称="BeatLeader" />
+
+## 第三方组件
+
+### Steam小工具
+```html
+<Steam小工具 APPID="620980" />
+```
+
+<Steam小工具 APPID="620980" />
+
+### Bilibili外链
+
+请直接参考[这里](https://player.bilibili.com/)。
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1B7411m7LV&autoplay=false" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
