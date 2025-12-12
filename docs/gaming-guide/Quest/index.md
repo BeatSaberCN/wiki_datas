@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Quest平台游戏指南
 import {Redirect} from '@docusaurus/router';
 
