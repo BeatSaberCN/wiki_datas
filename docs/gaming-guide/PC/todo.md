@@ -19,8 +19,7 @@ sidebar_position: -1
 
 - [ ] 启动你的VR环境，并启动你的游戏。请确保你正在使用的VR环境已经被设置成系统默认了。
 
-请参考[启动Meta Horizon Link有线串流](Meta/start-wire)、[启动Meta的Air Link无线串流](Meta/start-air)、[启动VirtualDesktop](start-vd)、[启动SteamVR](start-steamvr)。
+请参考[启动Meta Horizon Link有线串流](OpenXR/Meta/start-wire)、[启动Meta的Air Link无线串流](OpenXR/Meta/start-air)、[启动VirtualDesktop](OpenXR/start-vd)、[启动SteamVR](OpenXR/start-steamvr)。
 
 ## 进阶体验
-- [ ] 安装两个排行榜模组。[BeatLeader](/docs/mod-info/BeatLeader)和[ScoreSaber](/docs/mod-info/ScoreSaber)。
 - [ ] 安装[更多有趣的模组](mod_recommand)！

@@ -14,3 +14,4 @@
 Mapping Extensions | 部分谱面需要依赖它。
 NoodleExtensions | 部分谱面需要依赖它。
 Chroma | 部分谱面需要依赖它。
+<需要扩展/>
