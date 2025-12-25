@@ -11,7 +11,7 @@ sidebar_position: 1
 
 ### 开发者权限
 
-Quest设备上登录的主账号应当具有Meta开发者权限。
+Quest设备上登录的主账号应当具有Meta开发者权限，请[参考此文档](https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/?locale=zh_CN)打开`开发者权限开关`即可。
 
 ### 外接设备需求
 
@@ -21,9 +21,9 @@ Quest设备上登录的主账号应当具有Meta开发者权限。
 
 ## 使用方法
 
-### 0.前置条件
+### 0.安装原版游戏
 
-在你的Quest上安装最新版本的节奏光剑，开启开发者模式，并通过一根**数据**线连接至你的电脑（或一台支持WebUSB功能的安卓手机）。
+在你的Quest上安装最新版本的节奏光剑，并通过一根**数据**线连接至你的电脑（或一台支持WebUSB功能的安卓手机）。
 
 ### 1.访问MBF网站，并连接Quest设备
 
