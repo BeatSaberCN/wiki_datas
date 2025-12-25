@@ -15,4 +15,4 @@ sidebar_position: 8
 
 ## 导入歌曲/歌单
 
-把你想要添加的歌单直接丢给BSManager即可。
+把想要添加的歌单直接丢给BSManager即可。

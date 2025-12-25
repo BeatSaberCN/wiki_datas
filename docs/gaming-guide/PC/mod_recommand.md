@@ -1,6 +1,6 @@
 # 模组推荐
 
-你可以在[BeatMods](https://beatmods.com/mods)上找到可用的模组列表。
+可以在[BeatMods](https://beatmods.com/mods)上找到可用的模组列表。
 
 <提示>不要无脑安装模组。只装你想要的！如果你不知道需要啥，那就都别装。</提示>
 

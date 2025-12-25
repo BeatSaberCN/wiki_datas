@@ -5,4 +5,4 @@ sidebar_position: 3
 
 <网络提示 />
 
-你可以在[Meta官方](https://auth.meta.com)使用邮箱申请一个Meta账号，并在Quest登录。
+可以在[Meta官方](https://auth.meta.com)使用邮箱申请一个Meta账号，并在Quest登录。
