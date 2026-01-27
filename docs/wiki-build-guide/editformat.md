@@ -78,21 +78,18 @@ sidebar_position: 200
 
 ## 模组卡片
 
-用于展示一个模组信息。省略平台会用当前页面ID自动推断。
+用于展示一个模组信息。
 
 ```html
-<模组大卡 平台="PC" 名称="BeatLeader" />
-<模组 平台="PC" 名称="BeatLeader" />
+<模组大卡 平台="quest" 索引="BeatLeader" />
 ```
 
-这里的名称取仓库里面的Json文件名（PC是模组名字，quest是模组id，不区分大小写）。
+请在[模组信息](../mod-info/index.md)页面的列表找到每个模组的引用方式。
 
 ### 示例
 
 大卡：
-<模组大卡 平台="PC" 名称="BeatLeader" />
-普通：
-<模组 平台="PC" 名称="BeatLeader" />
+<模组大卡 平台="quest" 索引="BeatLeader" />
 
 ## 第三方组件
 
