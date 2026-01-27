@@ -8,7 +8,7 @@ sidebar_position: 7
 
 以下模组如果没有特殊说明，都可以在MBF中直接安装。
 
-## 打歌体验相关的模组
+<!-- ## 打歌体验相关的模组
 
 模组名称 | 支持的游戏版本 <span className="badge badge--primary">最新版本</span> |功能描述
 ---|---|---
@@ -33,4 +33,4 @@ HeartBeatQuest | <模组支持版本 名称="HeartBeatLanReceiver" /> | 在Quest
 ---|---|---
 Crash Reporter | <模组支持版本 名称="CrashReporter" /> | 会自动把游戏崩溃日志上传给开发者。可以装上这个，方便开发者去修复你的崩溃。
 
-<需要扩展 />
+<需要扩展 /> -->

@@ -4,7 +4,7 @@
 
 <提示>不要无脑安装模组。只装你想要的！如果你不知道需要啥，那就都别装。</提示>
 
-模组名称 | 介绍
+<!-- 模组名称 | 介绍
 ---|---
 [BeatLeader](/docs/mod-info/BeatLeader)和[ScoreSaber](/docs/mod-info/ScoreSaber) | 两个社区排行榜，能上传游戏录像。它们在安装后会自动绑定你的Steam账号。
 [BetterSongSearch](https://beatmods.com/mods/225)| 游戏内搜索歌曲必备。
@@ -14,4 +14,4 @@
 Mapping Extensions | 部分谱面需要依赖它。
 NoodleExtensions | 部分谱面需要依赖它。
 Chroma | 部分谱面需要依赖它。
-<需要扩展/>
+<需要扩展/> -->
