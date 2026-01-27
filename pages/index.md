@@ -4,6 +4,11 @@
 
 这是临时的首页，后续会换掉。可以在这做一下记录。
 
+import { 游戏指南, ModsBtn } from "./index.tsx"
+
+<游戏指南 />
+<ModsBtn />
+
 <信息 标题="部署状态">维基最后部署状态如下。失效请联系管理员。<br/>[![Deploy to GitHub Pages](https://github.com/BeatSaberCN/wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/BeatSaberCN/wiki/actions/workflows/deploy.yml)</信息>
 
 import {BuildTime, QuestLatestVersion, BSManagerRecommand} from "@site/src/components/realtime_infos.tsx"
